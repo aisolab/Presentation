@@ -74,5 +74,3 @@
 * ensemble MCB features across text classfication model
 	* variety tokenization (eg. subword, character, word)
 * BERT based 
-
----
